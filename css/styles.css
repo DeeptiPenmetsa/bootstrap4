@@ -38,3 +38,6 @@ body{
 .navbar-dark{
     background-color: #512da8
 }
+.bg-card{
+    background-color: rgb(255, 174, 0);
+}
